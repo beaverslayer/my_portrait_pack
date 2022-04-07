@@ -1,0 +1,8 @@
+{
+	"id":"myportraitpack", # internal id
+	"name":"My Portrait Pack", # displayed to the player
+	"author":"me",
+	"version":"1.0.0",
+	"description":"Portraits.",
+	"gameVersion":"0.95.1a-RC6",
+}

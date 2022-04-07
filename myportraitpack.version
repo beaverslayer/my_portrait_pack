@@ -1,0 +1,11 @@
+{
+
+"masterVersionFile":"https://raw.githubusercontent.com/atreg9/Another-Portrait-Pack/main/anotherportraitpack.version",
+    "modName":"My Portrait Pack",
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+}
