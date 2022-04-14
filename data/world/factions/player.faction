@@ -115,6 +115,8 @@
 			"graphics/portraits/uaf_queen.png",
 			"graphics/portraits/uaf_roboqueen.png",
 			"graphics/portraits/uaf_yimie.png",
+			"graphics/portraits/uaf_fox1_256.png",
+			"graphics/portraits/uaf_researcher_glasses_1_256.png",
         ],
     },
 }
