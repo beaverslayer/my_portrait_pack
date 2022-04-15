@@ -117,6 +117,8 @@
 			"graphics/portraits/uaf_yimie.png",
 			"graphics/portraits/uaf_fox1_256.png",
 			"graphics/portraits/uaf_researcher_glasses_1_256.png",
+			"graphics/portraits/ironshell_kimono_1_256.png",
+			"graphics/portraits/ironshell_kimono_2_256.png",
         ],
     },
 }
