@@ -125,6 +125,10 @@
 			"graphics/portraits/uaf_kitsune_booba_1_256.png",
 			"graphics/portraits/uaf_robo_updated_1_256.png",
 			"graphics/portraits/uaf_robo_updated_2_256.png",
+			"graphics/portraits/uaf_rain_windfall.png",
+			"graphics/portraits/uaf_robo_samurai_1_256.png",
+			"graphics/portraits/uaf_femalelookingdown_1_256.png",
+			"graphics/portraits/uaf_female_marine_1_256.png",
         ],
     },
 }
